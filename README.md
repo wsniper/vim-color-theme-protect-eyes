@@ -33,4 +33,7 @@ vim用了这么几年。之前一直用黑底方案。
 3. 配置terminal 字体和背景。如下图：
 ![image](https://raw.githubusercontent.com/wsniper/vim-color-theme-protec-eyes/master/img/terminal-settings-0.png)
 ![image](https://raw.githubusercontent.com/wsniper/vim-color-theme-protec-eyes/master/img/terminal-settings-1.png)
+
+  > 说明：若要保留终端的背景颜色，可不修改背景（尽管这样可能会在某些细节影响vim的整体协调）。
+  >       另外， 若要字体更美观，可以直接在网上找courier New 字体安装。 
   
