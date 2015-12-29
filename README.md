@@ -7,7 +7,7 @@ vim用了这么几年。之前一直用黑底方案。
 >说明：此方案参考了Hbuilder的“绿柔”主题。
 
 ## 预览
-![image](https://raw.githubusercontent.com/wsniper/vim-color-theme-protec-eyes/master/img/preview.png)
+![image](https://raw.githubusercontent.com/wsniper/vim-color-theme-protec-eyes/master/img/preview_.png)
 
 ----------------
 # 配置说明
