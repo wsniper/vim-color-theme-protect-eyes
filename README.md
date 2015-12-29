@@ -18,7 +18,7 @@ vim用了这么几年。之前一直用黑底方案。
 2. 打开 ～/.vimrc
   如果你能找到,下面两行
 
-  > colors=somename  (或 colorscheme=somename)
+  > colors=somename  (或 colorscheme=somename)   
   > background=somebackground
   
   则修改为：
